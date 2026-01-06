@@ -1,0 +1,4 @@
+pathway
+openai
+tiktoken
+nltk
